@@ -5,7 +5,7 @@ import (
 	"log"
 
 	// "golang.org/x/example/stringutil"
-	"github.com/ringoc/gobucket/greetings"
+	"github.com/ringoc/gobucket/godevtutorial/greetings"
 )
 
 func main() {
